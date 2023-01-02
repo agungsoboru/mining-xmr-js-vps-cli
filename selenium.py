@@ -1,5 +1,7 @@
 from selenium import webdriver
 
+
+#create by chatgpt
 # Konfigurasi untuk membuka website dengan Google Chrome
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--headless')
